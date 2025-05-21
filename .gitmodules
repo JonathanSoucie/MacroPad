@@ -10,3 +10,6 @@
 [submodule "scottokeebs"]
 	path = scottokeebs
 	url = https://github.com/joe-scotto/scottokeebs.git
+[submodule "kicad"]
+	path = kicad
+	url = https://github.com/dracula/kicad.git
